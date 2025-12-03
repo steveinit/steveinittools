@@ -24,7 +24,7 @@ Just a readme with links to tools I use across various platforms. You may find p
 [ParrotOS - My new favorite cyber linux distro](https://parrotsec.org/)
 
 ## Vulnerability Scanning
-[OpenVAS Free](https://www.greenbone.net/en/openvas-free)zabbi
+[OpenVAS Free](https://www.greenbone.net/en/openvas-free)
 
 # Personal Tools
 ## Astronomy
